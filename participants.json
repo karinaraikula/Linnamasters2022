@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "id": 1,
+      "name": "Karina Raikula",
+      "gym": "crossfit sims",
+      "age": "20-30v"
+    },
+    {
+      "id": 2,
+      "name": "Saija Temisevä",
+      "gym": "crossfit työpaikka",
+      "age": "20-30v"
+    },
+    {
+      "id": 3,
+      "name": "Minja Kauppila",
+      "gym": "crossfit sänky",
+      "age": "20-30v"
+    },
+    {
+      "id": 4,
+      "name": "Matias Matias",
+      "gym": "crossfit sali",
+      "age": "20-30v"
+    },
+    {
+      "id": 5,
+      "name": "Matias Matias",
+      "gym": "crossfit sali",
+      "age": "20-30v"
+    }
+  ]
+}
