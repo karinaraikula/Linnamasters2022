@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Cairo", sans-serif;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+
+body {
+  background-color: #ccc;
+}
+th {
+  font-size: 17px;
+  padding: 5px;
+}
+/* kolumnit */
+td {
+  width: 40%;
+  margin: 2px;
+  padding: 5px;
+}
+
+/* rivit */
+tr {
+  width: 100%;
+  background-color: #fff;
+}
+
+/* header rivi */
+tr:first-child {
+  font-weight: 600;
+  height: 30px;
+}
+
+/* numerokolumni */
+td:first-child {
+  width: 100px;
+  background-color: #f3f3f3;
+  justify-content: center;
+  font-size: 18px;
+  text-align: center;
+}
+
+td:last-child {
+  width: 20%;
+}
+
+#table {
+  border: blue solid 1px;
+  width: 100%;
+  justify-content: left;
+  margin: auto;
+}
+
+#participantsTable {
+  border: blue solid 1px;
+  width: 70%;
+  justify-content: center;
+  margin: auto;
+}
+h2 {
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+}
+
+#header {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  color: rgb(207, 76, 37);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  background-color: #fff;
+  font-weight: 600;
+}
+
+h1 {
+  text-transform: none;
+  font-size: 40px;
+}
+
+#headerlogo {
+  width: 100px;
+  height: auto;
+  padding-right: 30px;
+}

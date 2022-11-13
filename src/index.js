@@ -1,6 +1,6 @@
 import JsonParticipants from "./participants.json" assert { type: "json" };
 
-let headers = ["Nimi", "Sali", "Ikä"];
+let headers = ["Nro", "Nimi", "Sali", "Ikä"];
 
 let myTable = document.querySelector("#table");
 

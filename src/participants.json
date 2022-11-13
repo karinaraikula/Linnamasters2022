@@ -15,20 +15,32 @@
     {
       "id": 3,
       "name": "Minja Kauppila",
-      "gym": "crossfit sänky",
+      "gym": "crossfit koti",
       "age": "20-30v"
     },
     {
       "id": 4,
       "name": "Matias Matias",
       "gym": "crossfit sali",
-      "age": "20-30v"
+      "age": "40-50v"
     },
     {
       "id": 5,
+      "name": "Matti Mattila",
+      "gym": "crossfit sali",
+      "age": "30-40v"
+    },
+    {
+      "id": 6,
+      "name": "Minja Kauppila",
+      "gym": "crossfit koti",
+      "age": "20-30v"
+    },
+    {
+      "id": 7,
       "name": "Matias Matias",
       "gym": "crossfit sali",
-      "age": "20-30v"
+      "age": "40-50v"
     }
   ]
 }
